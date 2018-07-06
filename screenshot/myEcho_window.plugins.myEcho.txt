@@ -1,0 +1,60 @@
+Binary file ./app/build/intermediates/incremental-verifier/debug/com/lulee007/myEcho/myEcho.class matches
+Binary file ./app/build/intermediates/res/merged/debug/xml_config.xml.flat matches
+./app/build/intermediates/incremental/packageInstantRunResourcesDebug/debug/file-input-save-data.txt:8:3.file=/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/build/intermediates/assets/debug/www/plugins/com.lulee007.myEcho/www/myEcho.js
+./app/build/intermediates/incremental/mergeDebugAssets/merger.xml:2:<merger version="3"><dataSet config=":CordovaLib"><source path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/CordovaLib/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets"><file name="www/index.html" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/index.html"/><file name="www/cordova.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/cordova.js"/><file name="www/css/index.css" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/css/index.css"/><file name="www/plugins/com.lulee007.myEcho/www/myEcho.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/plugins/com.lulee007.myEcho/www/myEcho.js"/><file name="www/js/index.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/js/index.js"/><file name="www/img/logo.png" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/img/logo.png"/><file name="www/cordova-js-src/exec.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/cordova-js-src/exec.js"/><file name="www/cordova-js-src/plugin/android/app.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/cordova-js-src/plugin/android/app.js"/><file name="www/cordova-js-src/android/nativeapiprovider.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/cordova-js-src/android/nativeapiprovider.js"/><file name="www/cordova-js-src/android/promptbasednativeapi.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/cordova-js-src/android/promptbasednativeapi.js"/><file name="www/cordova-js-src/platform.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/cordova-js-src/platform.js"/><file name="www/cordova_plugins.js" path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/main/assets/www/cordova_plugins.js"/></source><source path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/src/debug/assets"/></dataSet></merger>
+./app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt:9:14.file=/Users/y0f00k5/Downloads/cordovaOnlyAar/platforms/android/app/build/intermediates/assets/debug/www/plugins/com.lulee007.myEcho/www/myEcho.js
+Binary file ./app/build/intermediates/instant-run-resources/resources-debug.ir.ap_ matches
+Binary file ./app/build/intermediates/classes/debug/com/lulee007/myEcho/myEcho.class matches
+Binary file ./app/build/intermediates/transforms/instantRunSlicer/debug/9/com/lulee007/myEcho/myEcho.class matches
+Binary file ./app/build/intermediates/transforms/dexMerger/debug/9/classes.dex matches
+Binary file ./app/build/intermediates/transforms/instantRun/debug/0/com/lulee007/myEcho/myEcho.class matches
+Binary file ./app/build/intermediates/transforms/desugar/debug/1/com/lulee007/myEcho/myEcho.class matches
+Binary file ./app/build/intermediates/transforms/dexBuilder/debug/20/com/lulee007/myEcho/myEcho.dex matches
+./app/build/intermediates/assets/debug/www/plugins/com.lulee007.myEcho/www/myEcho.js:1:cordova.define("com.lulee007.myEcho.myEcho", function(require, exports, module) {
+./app/build/intermediates/assets/debug/www/plugins/com.lulee007.myEcho/www/myEcho.js:5:    exec(success, error, 'myEcho', 'echo', [arg0]);
+./app/build/intermediates/assets/debug/www/plugins/com.lulee007.myEcho/www/myEcho.js:9:window.plugins.myEcho = echo;
+./app/build/intermediates/assets/debug/www/plugins/com.lulee007.myEcho/www/myEcho.js:10:exports.myEcho=echo;
+./app/build/intermediates/assets/debug/www/js/index.js:2:import myEcho from '../../plugins/com.lulee007.myEcho/www/myEcho.js';
+./app/build/intermediates/assets/debug/www/js/index.js:21://cordova.plugins.myEcho.echo("echo my text",
+./app/build/intermediates/assets/debug/www/js/index.js:22:window.plugins.myEcho("echo my text",
+./app/build/intermediates/assets/debug/www/cordova_plugins.js:4:    "id": "com.lulee007.myEcho.myEcho",
+./app/build/intermediates/assets/debug/www/cordova_plugins.js:5:    "file": "plugins/com.lulee007.myEcho/www/myEcho.js",
+./app/build/intermediates/assets/debug/www/cordova_plugins.js:6:    "pluginId": "com.lulee007.myEcho",
+./app/build/intermediates/assets/debug/www/cordova_plugins.js:8:      "cordova.plugins.myEcho"
+./app/build/intermediates/assets/debug/www/cordova_plugins.js:15:  "com.lulee007.myEcho": "0.0.1",
+Binary file ./app/build/outputs/apk/debug/app-debug.apk matches
+./app/src/main/res/xml/config.xml:3:    <feature name="myEcho">
+./app/src/main/res/xml/config.xml:4:        <param name="android-package" value="com.lulee007.myEcho.myEcho" />
+./app/src/main/java/com/lulee007/myEcho/myEcho.java:1:package com.lulee007.myEcho;
+./app/src/main/java/com/lulee007/myEcho/myEcho.java:13:public class myEcho extends CordovaPlugin {
+./app/src/main/assets/www/plugins/com.lulee007.myEcho/www/myEcho.js:1:cordova.define("com.lulee007.myEcho.myEcho", function(require, exports, module) {
+./app/src/main/assets/www/plugins/com.lulee007.myEcho/www/myEcho.js:5:    exec(success, error, 'myEcho', 'echo', [arg0]);
+./app/src/main/assets/www/plugins/com.lulee007.myEcho/www/myEcho.js:9:window.plugins.myEcho = echo;
+./app/src/main/assets/www/plugins/com.lulee007.myEcho/www/myEcho.js:10:exports.myEcho=echo;
+./app/src/main/assets/www/js/index.js:2:import myEcho from '../../plugins/com.lulee007.myEcho/www/myEcho.js';
+./app/src/main/assets/www/js/index.js:21://cordova.plugins.myEcho.echo("echo my text",
+./app/src/main/assets/www/js/index.js:22:window.plugins.myEcho("echo my text",
+./app/src/main/assets/www/cordova_plugins.js:4:    "id": "com.lulee007.myEcho.myEcho",
+./app/src/main/assets/www/cordova_plugins.js:5:    "file": "plugins/com.lulee007.myEcho/www/myEcho.js",
+./app/src/main/assets/www/cordova_plugins.js:6:    "pluginId": "com.lulee007.myEcho",
+./app/src/main/assets/www/cordova_plugins.js:8:      "cordova.plugins.myEcho"
+./app/src/main/assets/www/cordova_plugins.js:15:  "com.lulee007.myEcho": "0.0.1",
+./android.json:12:              "xml": "<feature name=\"myEcho\"><param name=\"android-package\" value=\"com.lulee007.myEcho.myEcho\" /></feature>",
+./android.json:25:    "com.lulee007.myEcho": {
+./android.json:35:      "id": "com.lulee007.myEcho.myEcho",
+./android.json:36:      "file": "plugins/com.lulee007.myEcho/www/myEcho.js",
+./android.json:37:      "pluginId": "com.lulee007.myEcho",
+./android.json:39:        "cordova.plugins.myEcho"
+./android.json:44:    "com.lulee007.myEcho": "0.0.1",
+./platform_www/plugins/com.lulee007.myEcho/www/myEcho.js:1:cordova.define("com.lulee007.myEcho.myEcho", function(require, exports, module) {
+./platform_www/plugins/com.lulee007.myEcho/www/myEcho.js:5:    exec(success, error, 'myEcho', 'echo', [arg0]);
+./platform_www/plugins/com.lulee007.myEcho/www/myEcho.js:9:window.plugins.myEcho = echo;
+./platform_www/plugins/com.lulee007.myEcho/www/myEcho.js:10:exports.myEcho=echo;
+./platform_www/cordova_plugins.js:4:    "id": "com.lulee007.myEcho.myEcho",
+./platform_www/cordova_plugins.js:5:    "file": "plugins/com.lulee007.myEcho/www/myEcho.js",
+./platform_www/cordova_plugins.js:6:    "pluginId": "com.lulee007.myEcho",
+./platform_www/cordova_plugins.js:8:      "cordova.plugins.myEcho"
+./platform_www/cordova_plugins.js:15:  "com.lulee007.myEcho": "0.0.1",
+Binary file ./.gradle/4.4/taskHistory/taskHistory.bin matches
+Binary file ./.gradle/4.4/javaCompile/classAnalysis.bin matches
+Binary file ./.gradle/4.4/javaCompile/taskHistory.bin matches
