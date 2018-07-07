@@ -12,7 +12,8 @@ cordova run android
 !git add -A
 git commit -m "backup myEcho/plugin.xml"
 git commit -m "also works"
-git commit -m "all works in Android, begin to tweak Android code"
+!git commit -m "refreshing"
+!git push -u origin master
 grep myEcho . -r -n > ~/Downloads/myEcho.txt
 
 plugman platform add --platform_name android
