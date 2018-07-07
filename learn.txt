@@ -1,7 +1,3 @@
-ionicAarTest: failed ionic try todo1 and todo2
-cordovaOnlyAar
-myMathCordova
-
  2018-07-04 11:10:40 cordovaOnlyAar {{{2 finally works 
 1. try only cordova https://cordova.apache.org/#getstarted
 2. then try \[1]
@@ -13,7 +9,7 @@ cordova platform add browser
 cordova platform add android
 cordova run browser
 cordova run android
-git add -A
+!git add -A
 git commit -m "backup myEcho/plugin.xml"
 git commit -m "also works"
 git commit -m "all works in Android, begin to tweak Android code"
